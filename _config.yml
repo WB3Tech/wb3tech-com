@@ -11,10 +11,10 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 # Site Settings
 title: "WB3Tech"
-email: ""
+email: "info@wb3tech.com"
 description: "WB3Tech helps regular companies make the jump to a modern-day tech company."
-baseurl: "/zeppelin"
-url: "https://wb3tech.com"
+baseurl: ""
+url: "https://wb3tech.github.io"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-101949141-1"
 googleAnalyticsSiteUrl: "wb3tech.com"
