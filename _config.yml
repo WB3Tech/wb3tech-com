@@ -26,6 +26,12 @@ socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
+# Hero Block
+heroImage: "WB3Tech-SectionBackground-1080x1920.png"
+heroTitle: "Make Technology "
+typeoutTextValues: '"Your Competitive Advantage", "Generate Revenue", "A Strength", "Grow Your Top Line", "#MyJam", "#MyThing"'
+typeoutFallback: "Grow Your Top Line"
+
 # Navigation
 navigationLinks:
 - {permalink: "/", text: "Home"}
@@ -35,11 +41,7 @@ navigationLinks:
 # - {permalink: "/software-refactoring", text: "Software Refactoring"}
 # - {permalink: "/citizen-innovation", text: "Citizen Innovation"}
 
-# Hero Block
-heroImage: "WB3Tech-SectionBackground-1080x1920.png"
-heroTitle: "Make Technology "
-typeoutTextValues: '"", "Your Competitive Advantage", "Generate Revenue", "A Strength", "Grow Your Top Line", "#MyJam", "#MyThing"'
-typeoutFallback: "Grow Your Top Line"
+
 
 # About Block
 aboutTitle: "What We Do For You"
