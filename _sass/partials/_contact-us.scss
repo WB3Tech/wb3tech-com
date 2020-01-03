@@ -1,0 +1,14 @@
+.contact-us {
+    .title { 
+        color: $font-dark-color;
+    }
+    a { 
+        color: $font-dark-color !important;
+    }
+    .button {
+        @extend .email;
+        input {
+            text-transform: uppercase;
+        }
+    }
+}
