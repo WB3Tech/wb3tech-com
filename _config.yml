@@ -41,7 +41,11 @@ navigationLinks:
 # - {permalink: "/software-refactoring", text: "Software Refactoring"}
 # - {permalink: "/citizen-innovation", text: "Citizen Innovation"}
 
-
+#Promise Block
+promiseTitle: "Our Promise"
+promises: 
+ - { title: "To SOLVE Your Technology & Information Problems", body: "We promise to solve your problems using methodologies that get straight to the heart of any issue or opportunity. These methods are distilled from 70 plus years of lessons learned by leading technology experts.  We built upon giants who came before us so you can benefit from the collective wisdom."}
+ - { title: "To NOT PROVIDE You A Solution", body: "We expect you to be taken back by this statement. A solution, especially packaged solutions, may solve a problem, but is it the problem you truly have?  We don’t push specific solutions. We work to understand root causes, and help you make the best decisions."}
 
 # About Block
 aboutTitle: "What We Do For You"

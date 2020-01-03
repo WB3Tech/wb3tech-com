@@ -1,0 +1,17 @@
+<!-- Begin The Promise Section -->
+<section id="latest-news" class="latest-news">
+	<div class="content-wrapper">
+		<div class="col-lg-10 col-lg-offset-1">
+			<h3>{{ site.promiseTitle }}</h3>
+			<article class="row">
+				{% for promise in site.promises %}
+					<div class="post col-md-6 col-sm-6 text-left animated hiding" data-animation="fadeInDown" data-delay="500">
+						<h6>{{ promise.title }}</h6>
+						<p class="post-body">{{ promise.body }}</p>
+					</div>
+                {% endfor %}
+			</article>
+		</div>
+	</div>
+</section>
+<!-- End The Promise Section -->
