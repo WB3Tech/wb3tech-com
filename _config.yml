@@ -40,6 +40,10 @@ navigationLinks:
 # - {permalink: "/platform-strategy", text: "Platform Strategy"}
 # - {permalink: "/software-refactoring", text: "Software Refactoring"}
 # - {permalink: "/citizen-innovation", text: "Citizen Innovation"}
+bottomNavigationLinks:
+ - {link: "mailto:TalkToAHuman@wb3tech.com?Subject=I%20Have%20Questions", text: "Ask Your Questions"}
+rightNavigationButtons:
+ - {link: "mailto:TalkToAHuman@wb3tech.com?Subject=I%20Have%20Questions", text: "Ask Your Questions"}
 
 #Promise Block
 promiseTitle: "Our Promise"
