@@ -1,9 +1,9 @@
-.contact-us {
+.share-your-problem {
     .title { 
-        color: $font-dark-color;
+        color: $font-dark-color !important;
     }
     a { 
-        color: $font-dark-color !important;
+        color: $font-white !important;
     }
     .button {
         @extend .email;
