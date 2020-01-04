@@ -17,7 +17,6 @@ baseurl: ""
 url: "https://wb3tech.com"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-155321176-1"
-googleAnalyticsSiteUrl: "wb3tech.com"
 
 # Head
 metaKeywords: "wb3, technology, cloud, cloud native, development, operations, devops, platform, api"
