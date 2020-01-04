@@ -9,6 +9,7 @@ permalink: pretty
 exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 # Site Settings
+author: "WB3Tech, LLC"
 title: "WB3Tech"
 email: "TalkToAHuman@wb3tech.com"
 description: "Transform your company into a modern-day technology company."
@@ -17,7 +18,6 @@ url: "https://wb3tech.com"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-101949141-1"
 googleAnalyticsSiteUrl: "wb3tech.com"
-#siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Head
 metaKeywords: "wb3, technology, cloud, cloud native, development, operations, devops, platform, api"
