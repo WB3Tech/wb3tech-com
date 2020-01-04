@@ -86,6 +86,7 @@ footerBlocks:
  - 
   title: "Links"
   links: 
+   - {permalink: "/", text: "Home"}
    - {permalink: "/contact-us", text: "Contact Us"}
 
 # Blog
