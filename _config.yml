@@ -38,9 +38,9 @@ navigationLinks:
 # - {permalink: "/software-refactoring", text: "Software Refactoring"}
 # - {permalink: "/citizen-innovation", text: "Citizen Innovation"}
 bottomNavigationLinks:
- - {link: "mailto:TalkToAHuman@wb3tech.com?Subject=I%20Have%20Questions", text: "Ask Your Questions"}
+ - {link: "/ask-your-question", text: "Ask A Question"}
 rightNavigationButtons:
- - {link: "mailto:TalkToAHuman@wb3tech.com?Subject=I%20Have%20Questions", text: "Ask Your Questions"}
+ - {link: "/ask-your-question", text: "Ask A Question"}
 
 #Promise Block
 promiseTitle: "Our Promise"
@@ -63,6 +63,11 @@ latestNewsTitle: "Latest news"
 #Contact Us
 contactUsTitle: "Let's Talk About Your Problem"
 contatcUsEmail: "TalkToAHuman@wb3tech.com"
+
+#Ask Your Question
+askYourQuestion: { 
+  title: "Have a Question? Ask it here!"
+}
 
 # Footer
 socialLinks:
