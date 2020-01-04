@@ -15,14 +15,13 @@ email: "TalkToAHuman@wb3tech.com"
 description: "Transform your company into a modern-day technology company."
 baseurl: ""
 url: "https://wb3tech.com"
-permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-155321176-1"
 
 # Head
 metaKeywords: "wb3, technology, cloud, cloud native, development, operations, devops, platform, api"
 twitterAccount: "@WB3Tech"
-socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
-socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
+socialImageSrcTwitter: "/img/seo/WB3Tech-Logo-SEO-Twitter.jpg"
+socialImageSrcFacebook: "/img/seo/WB3Tech-Logo-SEO-Facebook.jpg"
 
 # Hero Block
 heroImage: "WB3Tech-SectionBackground-1080x1920.png"
