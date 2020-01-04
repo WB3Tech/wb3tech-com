@@ -16,7 +16,7 @@ description: "Transform your company into a modern-day technology company."
 baseurl: ""
 url: "https://wb3tech.com"
 permalink: "/blog/:title"
-googleAnalyticsTrackingId: "UA-101949141-1"
+googleAnalyticsTrackingId: "UA-155321176-1"
 googleAnalyticsSiteUrl: "wb3tech.com"
 
 # Head
