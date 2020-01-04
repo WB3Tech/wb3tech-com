@@ -1,0 +1,8 @@
+"@context" : "http://schema.org",
+"@type" : "Website",
+"@id": "{{site.url}}",
+"identifier": "{{site.url}}",
+"url" : "{{site.url}}",
+"name": "{{ site.title }}",
+"alternateName": "{{ site.title }}",
+"description": "{{ site.description }}"
