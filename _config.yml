@@ -9,7 +9,7 @@ permalink: pretty
 exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 # Site Settings
-author: "WB3Tech, LLC"
+author: "WB3Tech LLC"
 title: "WB3Tech"
 email: "TalkToAHuman@wb3tech.com"
 description: "Transform your company into a modern-day technology company."
@@ -26,18 +26,19 @@ socialImageSrcFacebook: "/img/seo/WB3Tech-Logo-SEO-Facebook.jpg"
 # Hero Block
 heroImage: "WB3Tech-SectionBackground-1080x1920.png"
 heroTitle: "Make Technology "
-typeoutTextValues: '"Your Competitive Advantage", "Generate Revenue", "A Strength", "Grow Your Top Line", "#MyJam", "#MyThing"'
+typeoutTextValues: '"", "Your Competitive Advantage", "Generate Revenue", "A Strength", "Grow Your Top Line", "#MyJam", "#MyThing"'
 typeoutFallback: "Grow Your Top Line"
 
 # Navigation
 navigationLinks:
+- {permalink: "/contact-us", text: "Contact Us"}
 - {permalink: "/", text: "Home"}
 # - {permalink: "/fractional-cio-cto", text: "Fractional CIO & CTO"}
 # - {permalink: "/continuous-delivery", text: "Continuous Delivery"}
 # - {permalink: "/platform-strategy", text: "Platform Strategy"}
 # - {permalink: "/software-refactoring", text: "Software Refactoring"}
 # - {permalink: "/citizen-innovation", text: "Citizen Innovation"}
-- {permalink: "/contact-us", text: "Contact Us"}
+
 bottomNavigationLinks:
  - {link: "/ask-your-question", text: "Ask A Question"}
 rightNavigationButtons:
@@ -88,13 +89,3 @@ footerBlocks:
   links: 
    - {permalink: "/", text: "Home"}
    - {permalink: "/contact-us", text: "Contact Us"}
-
-# Blog
-blogTitle: "Latest news"
-blogCommentsEnabled: true
-discusShortName: "devfestua"
-
-
-# Team Block
-teamBlockTitle: "About us"
-aboutUs: "Google's services have become synonymous with simple things online. Number of technological innovations and IT industries in which Google is creating new products is enormous. It's hard to get to know all of them, but realistic. This is why people have started to gather in small local groups and share their experience. Later, the following groups have been called Google Developer Groups. GDGs can take many forms -- from just a few people getting together to watch some videos, to large gatherings with demos, tech talks, hackathons and conferences."
