@@ -55,7 +55,7 @@ aboutTitle: "What We Do For You"
 aboutBlock:
  - {title: "Fractional<br>CIO & CTO", image: "fractional-cio-cto-500x417.jpg", text: "Top tier technology leadership without a full-time commitment.", link: "/fractional-cio-cto" }
  - {title: "Continuous<br>Delivery", image: "continuous-delivery-500x417.jpg", text: "Source code to customer in less than 10 minutes.", link: "/continuous-delivery" }
- - {title: "Platform<br>Stratgey", image: "platform-strategy-2-500x499.jpg", text: "Extend your business model by allowing others to leverage your core competencies for their customers.", link: "/platform-strategy" }
+ - {title: "Platform<br>Strategy", image: "platform-strategy-2-500x499.jpg", text: "Extend your business model by allowing others to leverage your core competencies for their customers.", link: "/platform-strategy" }
  - {title: "Software<br>Refactoring", image: "software-refactoring-500x333.jpg", text: "Enhance non-functional aspects of your software without changing how it works.", link: "/software-refactoring" }
  - {title: "Citizen<br>Innovation", image: "citizen-innovation-500x355.jpg", text: "Give all employees the tools & opportunity to grow your top line with technology.", link: "/citizen-innovation" }
 
